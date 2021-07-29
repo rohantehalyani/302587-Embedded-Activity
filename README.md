@@ -1,4 +1,4 @@
-# Embedded C Case Study
+
 
 | Build | Code Quality | Codacy |
 |:---:|:---:|:---:|

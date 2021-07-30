@@ -1,6 +1,6 @@
 /**
  * @file Activity_3.h
- * @author Abhay Sahu
+ * @author Rohan Tehalyani
  * @brief Modulate PWM output based on Temp. sensor
  * @version 0.1
  * @date 2021-07-27

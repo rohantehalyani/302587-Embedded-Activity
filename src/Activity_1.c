@@ -1,6 +1,6 @@
 /**
  * @file Activity_1.c
- * @author Abhay Sahu
+ * @author Rohan Tehalyani
  * @brief If Occupancy status is true (ON) AND if heater status is true (ON) then: Turn ON Heater
  * @version 0.1
  * @date 2021-07-22

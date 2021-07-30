@@ -1,6 +1,6 @@
 /**
  * @file Heater_Controller.c
- * @author Abhay Sahu
+ * @author Rohan Tehalyani
  * @brief Seat Heateing Status
  * @version 0.1
  * @date 2021-07-22

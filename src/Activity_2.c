@@ -9,6 +9,10 @@
  * 
  */
 
+#ifndef __AVR_ATmega328__
+    #define __AVR_ATmega328__
+#endif
+
 #include "Activity_2.h"
 
 /**
@@ -17,7 +21,7 @@
  */
 void ADCInit(void){
     ADMUX |= (1<<REFS0); //ARef=AVcc
-    ADCSRA |= (1<<ADEN)|(1<ADPS2)|(1<<ADPS1)|(1<<ADPS0);//enable ADC and set prescalar to 128
+    ADCSRA |= (1<<ADEN)|(7<<ADPS0);//enable ADC and set prescalar to 128
 }
 
 /**

@@ -11,7 +11,7 @@
 
 #ifndef __ACTIVITY_2_h__
 #define __ACTIVITY_2_h__
-
+#define F_CPU 16000000UL
 #include <avr/io.h>
 #include <util/delay.h>
 

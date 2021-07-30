@@ -5,7 +5,8 @@ BUILD_DIR = Build
 # All Source code files
 SRC = Heater_Controller.c\
 src/Activity_1.c\
-src/Activity_2.c
+src/Activity_2.c\
+src/Activity_3.c
 
 # All header file paths
 INC = -I inc
@@ -47,7 +48,7 @@ analysis: $(SRC)
 
 doc:
 # Build the code code documentation using Doxygen command line utility
-	make -C documentation
+	make -C 
 
 clean:
 # Remove all the build files and generated document files

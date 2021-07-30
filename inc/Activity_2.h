@@ -1,6 +1,6 @@
 /**
  * @file Heater_Controller.c
- * @author Abhay Sahu
+ * @author Rohan Tehalyani
  * @brief Reading Temperature sensor
  * @version 0.1
  * @date 2021-07-23
